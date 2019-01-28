@@ -1,0 +1,29 @@
+{
+  "short_name": "Smart Laundry Tracking",
+  "name": "Smart Laundry Tracking",
+  "theme_color": "#4A90E2",
+  "background_color": "#0099cc",
+  "display": "standalone",
+  "icons": [
+  {
+    "src": "icon16.png",
+    "type": "image/png",
+    "sizes": "16x16"
+  },
+  {
+    "src": "icon48.png",
+    "type": "image/png",
+    "sizes": "48x48"
+  },
+  {
+    "src": "icon128.png",
+    "type": "image/png",
+    "sizes": "128x128"
+  },
+  {
+    "src": "icon144.png",
+    "type": "image/png",
+    "sizes": "144x144"
+  }],
+  "start_url": "index.php"
+}
